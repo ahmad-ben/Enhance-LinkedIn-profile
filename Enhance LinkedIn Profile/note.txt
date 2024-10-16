@@ -1,0 +1,126 @@
+How To Writ A Good LinkedIn About Section:
+  Key Pointes The About Section Should Have:
+    Customization: 
+      There’s no one-size-fits-all LinkedIn summary. 
+      It varies for job seekers, professionals, entrepreneurs, and thought leaders.
+    Objective: 
+      A good LinkedIn summary should compel your target audience to reach out to you.
+    Common themes: 
+      After analyzing many LinkedIn profiles.
+        Common successful practices are incorporated into summary templates, such as: 
+          Stating experience, achievements, and using metrics.
+    Structure: 
+      For job seekers: 
+        Intro:
+          Start with an introduction of your experience. 
+          Intro line that tells the reader: 
+            What field you're in.
+            How many years of experience you have.
+            The specific value you have brought to other companies. 
+          Template With Example:
+            Template:
+              [Compelling Action Word] [Insert Job Title Keyword] with X+ years of experience in 
+              [Insert Field / Job Title]. I help companies do 
+              [Insert Pitch Or Value Proposition With Metrics Or Social Proof].
+            Example:
+              Innovative Product Marketing Manager with 7+ years of experience in B2B Marketing.
+              I help companies identify high potential leads 
+              and am responsible for US$ 121M in acquisition revenue (+78% YoY)*.
+          Two notes:
+            If you're a student: 
+              Focus on your internships and extracurricular and make sure to include metrics. 
+              Example:
+                It's better to write:
+                  "my presentation scored 24% higher than the class average".
+                Instead of:
+                  "I led a team presentation".
+            Avoid using fluffy buzzwords, like "innovative".
+              You will have the chance to proof that in the next section, case study bullet points.
+        Provide bullet points showcasing specific case studies. 
+          Three specific examples that best showcase your existing skill set.
+            How they will be a great match for the role that you're hoping to land. 
+            The structure here will be similar to the bullet point structure found in your resume.
+              https://youtu.be/Tt08KmFfIYQ?si=7KgfwcfaUPvyXnE
+        Conclude with what excites you professionally. 
+          Without explicitly stating you’re looking for opportunities.
+          Example:
+            "I love applying my B2B LeadGen experience
+            to help tech companies reach high growth SMBs to further scale their businesses." 
+    Others:
+      keep summaries within LinkedIn’s character limits.
+      Use relevant keywords. 
+        To embed the right keywords in your LinkedIn summary: 
+          Find a role you're interested in. 
+          Paste the entire LinkedIn job description in a Word document. 
+          Do this 19 more times until you have 20 total. 
+          Paste those 20 job descriptions in a word cloud generator, link for a free one:
+            https://www.freewordcloudgenerator.com
+          Pick the top five keywords into your LinkedIn summary.           
+      Use formatting and emojis sparingly, the following website can help:
+        https://www.textconverter.net/
+      Mention personal interests to create connection. 
+        Add some small detail of it.
+        Interests like:
+          food, travel, family, sports, hobbies, and learning.
+        Template:
+          General Interest #1 (Specific Detail), General Interest #2 (Specific Detail), 
+          General Interest #3 (Specific Detail), General Interest #4 (Specific Detail).
+        Example:
+          I'm planning to add Travel, Sports, Reading, and Learning to my interests:
+          Interests: 
+            Traveling (Currently planning a trip to Rabat – recommendations welcome!). 
+            Reading (Currently reading Eat A Peach by David Chang). 
+            Podcasts (my daily Go To's are Up First, The Tim Ferriss Show).
+            the New York Football Giants.
+      Use tools like the Hemingway app to refine readability and correctness.
+===================================================================================================
+Tips To Enhance LinkedIn Profile:
+  Hide LinkedIn Updates: 
+    Turn off sharing profile updates to avoid notifying colleagues when you're making changes.
+  High-Quality Profile and Cover Photos: 
+    Use a professional photo with a smile and clear background.
+    You can use tools like Canva and Remove BG to clean up and enhance your pictures.
+  Craft a Meaningful Headline: 
+    Include your job title plus a brief sentence that explains the value you bring to employers. 
+      That make you stand out in searches.
+  Use Keywords in the About Section: 
+    Add relevant keywords based on job descriptions to improve visibility in recruiter searches. 
+      Already mentioned in the line 51.
+  Add and Endorse Five Skills: 
+    Ensure the skills listed on your profile are endorsed by others.
+  Custom LinkedIn URL: 
+    Create a custom URL for better SEO and make it easier to share in resumes and email signatures.
+  Use Search Operators: 
+    Leverage search operators like "AND" and "OR" and other operators. 
+      Efficiently find professionals in specific roles, such as: 
+        "product manager" AND "Apple"
+        "Facebook" AND ("Account Manager" OR "Marketing Manager") 
+        This method helps filter connections and identify potential contacts.
+    Basic Google search operators, can use also in Google search and Gmail.
+    Link of full list of them: 
+      https://moz.com/learn/seo/search-operators
+  Publish and Feature LinkedIn Posts: 
+    Publish a LinkedIn post to highlight your contributions and tag teammates. 
+    This approach: 
+      Appreciates your colleagues.
+      Provides deeper insights into your work that can be featured on your profile. 
+        Helping you stand out among peers.
+    Side info:
+      Experiences section on LinkedIn should be an extension of your resume. 
+      You should be using third person for your resume and first person on LinkedIn. 
+        Come off as more personable.
+  Check for Profile Restrictions: 
+    If LinkedIn restricts your profile: 
+      You may need to know the email addresses of everyone you wish to connect with. 
+    This typically happens after multiple low-quality connection requests. 
+    Users can seek support through: 
+      LinkedIn’s help site.
+      Tweeting @LinkedInHelp for assistance.
+===================================================================================================
+Sources: 
+  https://youtu.be/5hNsdH6Y2Mg?si=GbDNIWYZEjqlgnam
+  https://youtu.be/B4OhuzwLc9o?si=MJgHD8RyxbHEvLE_
+  https://youtu.be/93exwIKifcw?si=veSk6RSHQO4bGIOX
+  https://youtu.be/dQ6RNltrXro?si=XOuszHsSbWgPy9HU
+
+  https://cultivatedculture.com/linkedin-summary/
