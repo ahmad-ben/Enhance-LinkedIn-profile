@@ -25,7 +25,7 @@ How To Writ A Good LinkedIn About Section:
             Example:
               Innovative Product Marketing Manager with 7+ years of experience in B2B Marketing.
               I help companies identify high potential leads 
-              and am responsible for US$ 121M in acquisition revenue (+78% YoY)*.
+              and am responsible for US$ 121M in acquisition revenue (+78% YoY).
           Two notes:
             If you're a student: 
               Focus on your internships and extracurricular and make sure to include metrics. 
@@ -45,7 +45,9 @@ How To Writ A Good LinkedIn About Section:
           Without explicitly stating you’re looking for opportunities.
           Example:
             "I love applying my B2B LeadGen experience
-            to help tech companies reach high growth SMBs to further scale their businesses." 
+            to help tech companies reach high growth SMBs to further scale their businesses."
+        End:
+          Contact information with a proper phrase.
     Others:
       keep summaries within LinkedIn’s character limits.
       Use relevant keywords. 
@@ -53,9 +55,18 @@ How To Writ A Good LinkedIn About Section:
           Find a role you're interested in. 
           Paste the entire LinkedIn job description in a Word document. 
           Do this 19 more times until you have 20 total. 
-          Paste those 20 job descriptions in a word cloud generator, link for a free one:
-            https://www.freewordcloudgenerator.com
-          Pick the top five keywords into your LinkedIn summary.           
+          You can:
+            Paste those 20 job descriptions in a word cloud generator, link for a free one:
+              https://www.freewordcloudgenerator.com
+            Pick the top five keywords into your LinkedIn summary.           
+          Or:
+            Go to ChatGPT or Google Gemini and input this prompt:
+              I am a job seeker applying to marketing manager positions. 
+              Your task is to analyze the [X] job descriptions I will paste below
+              and identify the top 10 keywords that appear by frequency. 
+              Clearly show the number of times that keyword appears in the [X] job descriptions,
+              i.e., show a numerical value next to the keyword. Here are the [X] job descriptions.
+            Then paste the [X] job descriptions.
       Use formatting and emojis sparingly, the following website can help:
         https://www.textconverter.net/
       Mention personal interests to create connection. 
@@ -85,7 +96,7 @@ Tips To Enhance LinkedIn Profile:
       That make you stand out in searches.
   Use Keywords in the About Section: 
     Add relevant keywords based on job descriptions to improve visibility in recruiter searches. 
-      Already mentioned in the line 51.
+      Already mentioned in the line *51*.
   Add and Endorse Five Skills: 
     Ensure the skills listed on your profile are endorsed by others.
   Custom LinkedIn URL: 
@@ -116,11 +127,95 @@ Tips To Enhance LinkedIn Profile:
     Users can seek support through: 
       LinkedIn’s help site.
       Tweeting @LinkedInHelp for assistance.
-===================================================================================================
-Sources: 
-  https://youtu.be/5hNsdH6Y2Mg?si=GbDNIWYZEjqlgnam
-  https://youtu.be/B4OhuzwLc9o?si=MJgHD8RyxbHEvLE_
-  https://youtu.be/93exwIKifcw?si=veSk6RSHQO4bGIOX
-  https://youtu.be/dQ6RNltrXro?si=XOuszHsSbWgPy9HU
+  Upload your resume to LinkedIn: 
+    Helps boost your visibility in searches because of the keywords in your resume. 
+      Job title, skills, and technologies.. will also be considered in LinkedIn’s search algorithm. 
+    If recruiters search for specific keywords that are in your resume: 
+      It increases the chances that your profile will show up in their search results.
+  Highlighting Achievements: 
+    Focus on the results you've achieved rather than just listing job duties. 
+      That make your profile more attractive to recruiters, examples:
+        Instead of:
+          Managed a team of 10 employees.
+        Say:
+          Led a team of 10 employees to increase sales by 15%. 
+          Developed marketing campaigns that resulted in a 25% increase in website traffic. 
+          Saved the company $10,000 by implementing a new cost-saving measure. 
+    When a recruiter looks at your LinkedIn profile. 
+      Give them a reason to stop and read. 
+    Recruiters want to see the following: 
+      What you can do, what you’ve accomplished, and how you can help them achieve their goals. 
+    Highlighting the impact of your actions, showcases your skills and potential: 
+      Your past performance signals your future results and how you can help them. 
+  Engagement: 
+    Actively participate on LinkedIn by: 
+      Joining relevant groups. 
+      Attending live events to build connections and increase opportunities.
+  Professional Presentation: 
+    Treat your LinkedIn profile like a storefront. 
+    Making a strong first impression by: 
+      Correcting any errors.
+        You can do this to any text easily with a tool of AI and the following prompt:
+          "Correct any typos and grammatical errors in the following text."
+      Maintaining a respectful online presence.
+  Communication Settings: 
+    Make sure your settings allow recruiters to message you directly to maximize job opportunities.
+  Master Keywords: 
+    Identify relevant keywords from job descriptions and include them 9-10 times in your profile. 
+    The steps of doing this are:
+      Rely on the method starting form the line *60*.
+      Pick the top 3 relevant keywords, include them in the following frequency: 
+        Headline -1 time-.
+        About section -2/3 times-.
+        Experience -3/5 times-.
+        Skills -1 time-.
+    Adopt the two-part headline formula that consists of:
+      Part one: a keyword-filled overview.
+      Part two: value illustration with results.
+      Example: 
+        The keywords: 
+          Marketing, Product, Advertising.
+        The Headline: 
+          Product Marketing | Digital Advertising | 
+          Helping small businesses 2x their return on ad spend.
+  Write Keyword-Driven Headlines: 
+    Use a two-part formula that includes relevant keywords and measurable results. 
+      That can boost your search ranking.
+  Steal with Pride: 
+    Find and emulate optimized profiles of people at companies you want to work for.
+      Then improve your own 😉.
+    Steps:
+      Go To LinkedIn homepage. 
+      Click into the search bar and hit enter to perform an empty search.
+      Then, click: 
+        "Posts" 
+        "All filters" 
+        under "Author Company" input the companies you want to apply.
+        Click "Show results" 
+      Now have a list of active LinkedIn users who put real effort into optimizing their profiles. 
+        They all work for companies you are interested in. 
+      Go through and pick five profiles, many of them use the two-part headline formula. 
+      And now you have a reference to these real and relevant examples when writing your headline.
+  Write an Effective -About- Section: 
+    Use a template to: 
+      Highlight achievements.
+      Metrics.
+      Signal openness to new opportunities subtly.
+  Get Skills Endorsed: 
+    Ensure your skills are up-to-date and endorsed by professionals in your industry. 
+      Recruiters often filter by skills.
+    To identify the most important skills recruiters search for, you can use the following prompt:
+      "I am a job seeker applying for marketing manager roles. 
+      I will share five job openings I’m interested in below, 
+      and your task is to identify the top 10 most relevant skills 
+      based on the descriptions of those roles. 
+      Clearly show how frequently each skill appears in the five job descriptions, 
+      i.e., show a numerical value next to the skill. Here are the five job descriptions."
+    Ideally, the endorsements should come from people who work in similar industries or roles. 
+      Since their endorsement will carry more weight.
+    Bonus tip: 
+      If you endorse your colleagues’ skills, they may return the favor and endorse yours.
+    Bonus info:
+      linkedin's search algorithm will only factor in a skill if it has at least one endorsement.
 
-  https://cultivatedculture.com/linkedin-summary/
+===================================================================================================

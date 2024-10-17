@@ -1,0 +1,15 @@
+Write an Engaging Headline: 
+  Create a concise, specific headline that highlights your job title, skills, and value.
+  Make it a single sentence. 
+    That includes your job title and the value you bring to potential employers. 
+  Avoid using generic phrases or buzzwords like "motivated" or "skilled." 
+  Provide specific details about your role and the technologies you specialize in. 
+  Follow a template like: 
+    role | skills | interesting value proposition.
+  Examples:
+    If your are a student: 
+      ‘Pursuing Computer Science @ABC | JavaScript, Node.js | Web Development.’ 
+    Working professional -make it concise and informative-: 
+      ‘Data Scientist @ABC | Python, PyTorch | Helping hospitals reduce their ML training costs.’ 
+      ‘Experienced Full Stack Software Engineer | Python, React | 
+      Increasing Website Performance and User Engagement.’

@@ -1,0 +1,8 @@
+Fill Your Experience Section:
+  List your work experience starting with your most recent position. 
+    Add your role and location. 
+    Write bullet points to describe the projects you have worked on. 
+      Quantify your contributions by using metrics and data to showcase your impact. 
+    After each work experience.
+      Include the relevant technologies and keywords you have worked with. 
+  If you have any publications, part-time jobs, or volunteer work, you can add those here. 
