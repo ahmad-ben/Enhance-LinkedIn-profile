@@ -1,0 +1,5 @@
+Showcase Your Projects:
+  Personal projects or contributed to open-source projects. 
+  Provide links to your code repositories. 
+  Describe your role in the projects. 
+  Challenges you faced, and solutions you implemented. 
